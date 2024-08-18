@@ -170,6 +170,17 @@
     .sec-1-2{
         display: none;
     }
+    .heads{
+        padding: 0 30px;
+    }
+    .description {
+        /* width: 80%; */
+        padding: 0 30px;
+        
+      }
+      .discover-btn {
+        padding: 0 30px;
+      }
     .sec-1-1{
         background: 
        
