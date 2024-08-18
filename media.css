@@ -75,29 +75,30 @@
     
   
     .nav-items{
-      background-color: white;
+      background-color: rgb(186, 185, 185);
       flex-direction: column;
-      height: 40vh;
+      height: auto;
       align-items: center;
       position: absolute;
       left: 100%;
       top: 100%;
       width: 100%;
       margin: 0;
-      border: 1px black solid;
+      padding: 20px  0;
+      /* border: 1px black solid; */
       transition: 0.5s all;
     }
     .toggle{
       left: 0;
     }
     .items {
-      margin-top: 50px;
+      padding: 25px;
       
     }
     .items a {
       
       font-size: 20px;
-      color: black;
+      color: rgb(0, 0, 0);
     }
     
 
@@ -181,8 +182,9 @@
         background-attachment: fixed;
     }
     .sec-2{
-        padding: 100px 0 ;
-        margin-bottom: 300px;
+        /* padding: 100px 0 ; */
+        /* margin-bottom: 300px; */
+        height: auto;
     }
     .sec-2-head {
        
@@ -310,8 +312,8 @@
     
     }
 
-    .sec-2{
+    /* .sec-2{
         padding: 100px 0 ;
         margin-bottom: 100px;
-    }
+    } */
   }
